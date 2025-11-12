@@ -12,6 +12,70 @@
 
 ---
 
+## 🧭 About This Repository
+This repository contains my **technical training journey** — a combination of **learning modules, mini-projects, and hands-on coding** that I’ve completed as part of my B.Tech coursework and personal development.
+
+It covers everything from **Python programming to Machine Learning, IoT, APIs, Web Development, and Cybersecurity**.  
+I’ve used this space to document **my progress, experiments, and the concepts I’ve learned**.
+
+---
+
+## 🎯 Objectives
+
+- 💡 Strengthen core **Computer Science** skills  
+- 🔥 Build real-world **mini-projects** to apply theory  
+- 🧠 Explore **AI, ML, IoT, APIs, and Web Development**  
+- 💬 Develop collaboration and version control experience with **Git & GitHub**  
+- 🚀 Prepare for hackathons and future software engineering roles  
+
+---
+
+## 🧰 Tech Stack & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,matplotlib,scikitlearn,git,github" />
+</p>
+
+| Category | Technologies |
+|-----------|---------------|
+| 💻 Programming | Python, C, C++, JavaScript |
+| 📊 Data & AI | Pandas, NumPy, Matplotlib, Scikit-learn |
+| 🗄 Database | MySQL, SQLite |
+| ⚙️ Tools | Git, VS Code, Jupyter Notebook |
+| ☁️ Others | APIs, IoT, Networking |
+
+---
+
+## 🗂 Repository Structure
+
+```bash
+Technical_Training/
+│
+├── Python/
+│   ├── Basics/
+│   ├── Projects/
+│   └── Assignments/
+│
+├── Machine_Learning/
+│   ├── Algorithms/
+│   └── Mini_Projects/
+│
+├── Web_Development/
+│   ├── HTML_CSS/
+│   ├── JavaScript/
+│   └── Flask_Projects/
+│
+├── Database/
+│   ├── MySQL/
+│   └── SQLite/
+│
+├── IoT/
+│   ├── Sensors/
+│   ├── Arduino/
+│   └── Cloud_Integration/
+│
+└── README.md
+
 ## 📚 Modules Covered
 
 | Module | Description |
@@ -72,17 +136,14 @@
 | Module | Status |
 | --- | --- |
 | 🐍 Python | ✅ Completed |
-| 🌐 Web Development | ✅ Completed |
 | 🤖 Machine Learning | 🟡 In Progress |
-| 🔌 IoT | 🟡 In Progress |
-| 🔒 Cybersecurity | 🔜 Upcoming |
 
 ---
 
 ## 🧠 Learning Outcomes
 
 - 🧩 Strengthened understanding of programming and logical thinking  
-- 💡 Hands-on experience with AI, APIs, and IoT  
+- 💡 Hands-on experience with AI, APIs  
 - ⚙️ Improved debugging, version control, and teamwork skills  
 - 🚀 Confidence to develop and deploy real-world applications  
 
